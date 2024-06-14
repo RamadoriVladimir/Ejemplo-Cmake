@@ -1,0 +1,3 @@
+C:/Users/Vero/Desktop/ISFT/Segundo_año/IngenieriaDeSoftware/cpp-cmake-example/00-simple-helloworld/build/CMakeFiles/hello.dir
+C:/Users/Vero/Desktop/ISFT/Segundo_año/IngenieriaDeSoftware/cpp-cmake-example/00-simple-helloworld/build/CMakeFiles/edit_cache.dir
+C:/Users/Vero/Desktop/ISFT/Segundo_año/IngenieriaDeSoftware/cpp-cmake-example/00-simple-helloworld/build/CMakeFiles/rebuild_cache.dir
